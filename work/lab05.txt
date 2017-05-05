@@ -1,0 +1,12 @@
+TITLE
+
+Environment Variables and File Operations
+
+Andrey Poznyakov, 4645M
+
+OBJECTIVE
+
+Examine system calls for working with files and environment variables.
+
+WORK REPORT
+
