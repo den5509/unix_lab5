@@ -125,3 +125,7 @@ sh-4.2$ exit
 exit
 
 Script done on Fri May  5 11:29:00 2017
+
+CONCLUSION
+
+During the lab work, i've learned how to use system calls to work with files and environment variables and wrote the program, which allows you to display information about the command line parameters and environmental parameters
