@@ -76,7 +76,7 @@ sh-4.2$ make install
 cp lab5 bin/lab5
 sh-4.2$ make clean
 rm -f lab5 lab5.o
-sh-4.2$ bin/lab5
+sh-4.2$ bin/lab5 LOL_ARG1 LOL_ARG2 LOL_ARG3
 Main process:
 	Parameters:
 		HOSTNAME=afflya_lab5
@@ -107,6 +107,9 @@ Main process:
 Child process:
 	Parameters:
 		bin/lab5
+		LOL_ARG1
+		LOL_ARG2
+		LOL_ARG3
 
 	Environment:
 		HOSTNAME=afflya_lab5
